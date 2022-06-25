@@ -2,7 +2,7 @@
 - 👀 I’m ...?
 - 🌱 I’m ...?
 - 💞️ I’m ...?
-- 📫 How to reach me:Email:Goulixiaoji@outlook.com
+- 📫 How to reach me:Goulixiaoji@outlook.com
 
 <!---
 Goulixiaoji/Goulixiaoji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
