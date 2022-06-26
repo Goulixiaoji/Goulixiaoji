@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Goulixiaoji&color=green)
+![](https://komarev.com/ghpvc/?username=Goulixiaoji&color=green) ![mcmod-shield][mcmod]
 - 👋 Hi, I’m @Goulixiaoji     
 - 👀 I’m ...?
 - 🌱 I’m ...?
@@ -15,3 +15,6 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goulixiaoji&langs_count=10&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+[mcmod]: https://www.mcmod.cn/author/25105.html
