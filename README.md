@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Goulixiaoji     ![](https://komarev.com/ghpvc/?username=Goulixiaoji&color=green)
+![](https://komarev.com/ghpvc/?username=Goulixiaoji&color=green)
+- 👋 Hi, I’m @Goulixiaoji     
 - 👀 I’m ...?
 - 🌱 I’m ...?
 - 💞️ I’m ...?
