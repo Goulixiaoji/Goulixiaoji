@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 [cf-ima]:https://img.shields.io/badge/CurseForge-Goulixiaoji-orange
 [bilibili]:https://space.bilibili.com/354315846
 [bilibili-ima]:https://img.shields.io/badge/dynamic/json?color=blue&logo=bilibili&label=%E5%A4%9F%E7%AB%8B%E5%B0%8F%E6%BF%80&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D354315846%26jsonp%3Djsonp
-[github]:https://img.shields.io/github/followers/Goulixiaoji?label=Goulixiaoji&style=social
+[github]:https://img.shields.io/github/followers/Goulixiaoji?label=Follow&style=social
