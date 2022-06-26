@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Goulixiaoji&color=green) ![mcmod-ima][mcmod]
+![](https://komarev.com/ghpvc/?username=Goulixiaoji&color=green) [![][mcmod-ima]][mcmod]
 - 👋 Hi, I’m @Goulixiaoji     
 - 👀 I’m ...?
 - 🌱 I’m ...?
