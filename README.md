@@ -17,7 +17,7 @@
 [cf]:https://www.curseforge.com/members/goulixiaoji/projects
 [cf-ima]:https://img.shields.io/badge/CurseForge-Goulixiaoji-orange
 [bilibili]:https://space.bilibili.com/354315846
-[bilibili-ima]:https://abstruck-studio.github.io/BiliBili-Shields?mid=354315846
+[bilibili-ima]:https://img.shields.io/badge/dynamic/json?color=blue&logo=bilibili&style=social&label=Follow&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D354315846%26jsonp%3Djsonp
 [github]:https://img.shields.io/github/followers/Goulixiaoji?label=Follow&style=social
 [youtube]:https://img.shields.io/youtube/channel/subscribers/UCVabQwSEEDC8P-yeDxUV7zQ?label=Subscribers&style=social
 [twitch]:https://img.shields.io/twitch/status/Goulixiaoji?label=Twitch&style=social
